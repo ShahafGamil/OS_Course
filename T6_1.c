@@ -5,37 +5,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Shahahahahahaha
 
 union semun {
     int val;
