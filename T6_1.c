@@ -5,6 +5,38 @@
 #include <stdio.h>
 #include <unistd.h>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 union semun {
     int val;
     struct semid_ds *buf;
@@ -13,6 +45,7 @@ union semun {
 
 int semid;
 union semun semarg;
+
 
 int main(void)
 {
